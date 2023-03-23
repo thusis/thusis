@@ -1,5 +1,7 @@
 
 <p align="center">
+배움은 계속된다! 개발도 마찬가지! 🎈<br>
+<br>  
 만나서 반갑습니다! 😸<br>
 공부가 너무 재밌는<br>
 백엔드 신입개발자 이봉은입니다
@@ -24,7 +26,7 @@
 ![Thusis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusis&show_icons=true&theme=transparent)
 
 </div>
-
+<br>
 <!--
 **thusis/thusis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
