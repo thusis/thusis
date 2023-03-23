@@ -11,11 +11,12 @@
 <img src="https://img.shields.io/badge/Oracle-FF8000?style=flat-square&logo=Oracle&logoColor=white"/>  
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-
- 
-![Thusis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusis&show_icons=true&theme=transparent)
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 </p>
+
+<div align="center">
+![Thusis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusis&show_icons=true&theme=transparent)
+</div>
 
 <!--
 **thusis/thusis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
