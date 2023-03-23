@@ -4,7 +4,7 @@
 공부가 너무 재밌는 백엔드 신입개발자 이봉은입니다
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
 <Strong>Tech Stack</Strong><br><br>
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 </p>
 
-<br><br>
+<br>
 <div align="center">
 
 ![Thusis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thusis&show_icons=true&theme=transparent)
