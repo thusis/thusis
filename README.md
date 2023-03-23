@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
-  <img src="https://img.shields.io/badge/
+<img src="https://img.shields.io/badge/
   Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-</a>
-
-
 <!--
 **thusis/thusis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
