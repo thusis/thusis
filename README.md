@@ -7,6 +7,11 @@
 백엔드 신입개발자 이봉은입니다
 </p>
 
+
+<p>
+Notion : https://thusis-and-bonni.notion.site/PORTFOLIO-f53cae0497634c97901ea306586eee58
+</p>
+
 <br>
 
 <p align="center">
